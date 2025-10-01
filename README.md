@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👾 Hi, I'm spyustrrrrr 👾
+#  Hi, I'm spyustrrrrr 
 
-### 🔐 Cybersecurity Enthusiast | Ethical Hacker | Security Researcher
+###  Cybersecurity Enthusiast | Ethical Hacker | Security Researcher
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=false&width=600&lines=Penetration+Tester+%7C+Bug+Hunter;Web+Security+%7C+Network+Security;Always+Learning+%7C+Always+Hacking" alt="Typing SVG" />
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
@@ -21,13 +21,13 @@
 
 ---
 
-## 🛡️ About Me
+##  About Me
 ```python
 #!/usr/bin/env python3
 
 class CyberSecuritySpecialist:
     def __init__(self):
-        self.username = "YOUR_USERNAME"
+        self.username = "spyustrrrrr"
         self.role = "Cybersecurity Enthusiast"
         self.language_spoken = ["id_ID", "en_US"]
         
