@@ -10,20 +10,20 @@ Fokus di bidang **Network Security, Web Application Security, Digital Forensics*
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=false&width=600&lines=Penetration+Tester+%7C+Bug+Hunter;Web+Security+%7C+Network+Security;Always+Learning+%7C+Always+Hacking" alt="Typing SVG" />
 
 
-##  Skills & Tools
+##  Skills & Tools  
 
 <p align="center">
   <!-- Cybersecurity -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
-   <img src="https://cdn.simpleicons.org/metasploit/ffffff" width="72" height="72" style="border-radius:12px;padding:8px;background:#111827;margin:6px;" alt="Metasploit"/>
-  <img src="https://cdn.simpleicons.org/wireshark/ffffff" width="72" height="72" style="border-radius:12px;padding:8px;background:#0a2740;margin:6px;" alt="Wireshark"/>
-  <img src="https://cdn.simpleicons.org/nmap/ffffff" width="72" height="72" style="border-radius:12px;padding:8px;background:#222222;margin:6px;" alt="Nmap"/>
-  <img src="https://cdn.simpleicons.org/burp/ffffff" width="72" height="72" style="border-radius:12px;padding:8px;background:#ff6633;margin:6px;" alt="BurpSuite"/>
-  <img src="https://cdn.simpleicons.org/owasp/ffffff" width="72" height="72" style="border-radius:12px;padding:8px;background:#111111;margin:6px;" alt="OWASP"/>
-  <img src="https://cdn.simpleicons.org/kalilinux/ffffff" width="72" height="72" style="border-radius:12px;padding:8px;background:#0f4b39;margin:6px;" alt="Kali Linux"/>
+  <img src="https://cdn.simpleicons.org/metasploit/1572B6" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="60" height="60"/>
+  <img src="https://img.shields.io/badge/-Nmap-2C2C2C?style=flat-square&logo=nmap&logoColor=white" width="85" height="60" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/-BurpSuite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" width="85" height="60" alt="BurpSuite"/>
 
+  <img src="https://cdn.simpleicons.org/owasp/000000" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/kalilinux/268BEE" width="60" height="60"/>
 
   <!-- Dev & Infra -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/>
@@ -41,6 +41,8 @@ Fokus di bidang **Network Security, Web Application Security, Digital Forensics*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
 </p>
+
+
 
 ---
 
