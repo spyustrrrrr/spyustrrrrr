@@ -10,13 +10,35 @@ Fokus di bidang **Network Security, Web Application Security, Digital Forensics*
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=false&width=600&lines=Penetration+Tester+%7C+Bug+Hunter;Web+Security+%7C+Network+Security;Always+Learning+%7C+Always+Hacking" alt="Typing SVG" />
 
 
-## 🚀 Skills & Tools
+##  Skills & Tools
+
 <p align="center">
+  <!-- Cybersecurity -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/metasploit/1572B6" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/nmap/2C2C2C" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/burp/FF6633" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/owasp/000000" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/kalilinux/268BEE" width="60" height="60"/>
+
+  <!-- Dev & Infra -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
+
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
 </p>
 
 
