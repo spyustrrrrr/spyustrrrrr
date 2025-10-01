@@ -19,9 +19,6 @@ Fokus di bidang **Network Security, Web Application Security, Digital Forensics*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
   <img src="https://cdn.simpleicons.org/metasploit/1572B6" width="60" height="60"/>
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="60" height="60"/>
-  <img src="https://img.shields.io/badge/-Nmap-2C2C2C?style=flat-square&logo=nmap&logoColor=white" width="85" height="60" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/-BurpSuite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" width="85" height="60" alt="BurpSuite"/>
-
   <img src="https://cdn.simpleicons.org/owasp/000000" width="60" height="60"/>
   <img src="https://cdn.simpleicons.org/kalilinux/268BEE" width="60" height="60"/>
 
@@ -54,11 +51,11 @@ Fokus di bidang **Network Security, Web Application Security, Digital Forensics*
 
 ---
 
-## 🌍 Connect with Me
-- 📧 Email: your.email@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/USERNAME](https://linkedin.com/in/USERNAME)  
-- 🐦 Twitter/X: [@USERNAME](https://twitter.com/USERNAME)  
-- 🌐 Website/Blog: [https://yourdomain.com](https://yourdomain.com)  
+##  Connect with Me
+-  Email: your.email@example.com  
+-  LinkedIn: [linkedin.com/in/USERNAME](https://linkedin.com/in/USERNAME)  
+-  Twitter/X: [@USERNAME](https://twitter.com/USERNAME)  
+-  Website/Blog: [https://yourdomain.com](https://yourdomain.com)  
 
 
 ---
