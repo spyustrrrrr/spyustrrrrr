@@ -12,16 +12,13 @@ Fokus di bidang **Network Security, Web Application Security, Digital Forensics*
 
 ## 🚀 Skills & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux" />
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash" />
-  <img src="https://img.shields.io/badge/-Metasploit-333333?style=flat&logo=metasploit" />
-  <img src="https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark" />
-  <img src="https://img.shields.io/badge/-Nmap-333333?style=flat&logo=nmap" />
-  <img src="https://img.shields.io/badge/-BurpSuite-333333?style=flat&logo=burpsuite" />
-  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-333333?style=flat&logo=kalilinux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
 </p>
+
 
 ---
 
