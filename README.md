@@ -66,11 +66,22 @@ Selalu belajar tentang **Malware Analysis & Exploit Development**
 
 ---
 
-Badges & Achievements
-<p align="center"> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![CTF](https://img.shields.io/badge/CTF-Challenges-red?style=for-the-badge) ![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-success?style=for-the-badge) </p>
+##  Badges & Achievements
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/CTF-Challenges-red?style=for-the-badge" alt="CTF"/>
+  <img src="https://img.shields.io/badge/Bug%20Bounty-success?style=for-the-badge" alt="Bug Bounty"/>
+</p>
 
-GitHub Activity
-<p align="center"> ![GitHub Contribution](https://github-readme-activity-graph.vercel.app/graph?username=spyustrrrrr&theme=radical) ![Visitor Count](https://profile-counter.glitch.me/spyustrrrrr/count.svg) </p>
+---
+
+##  GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spyustrrrrr&theme=radical" alt="GitHub Contribution Graph"/>
+  <img src="https://profile-counter.glitch.me/spyustrrrrr/count.svg" alt="Visitor Count"/>
+</p>
+
 
 ##  About Me
 ```python
