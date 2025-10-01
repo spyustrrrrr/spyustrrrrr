@@ -1,6 +1,10 @@
 <div align="center">
 
-#  Hi, I'm spyustrrrrr 
+  #
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,8B00FF&center=true&vCenter=true&multiline=false&width=800&lines=Hi,+I'm+spyustrrrrr" alt="Banner"/>
+</p>
+
 
 ###  Cybersecurity Enthusiast | Ethical Hacker | Security Researcher
 Fokus di bidang **Network Security, Web Application Security, Digital Forensics**  
