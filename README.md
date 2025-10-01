@@ -8,16 +8,41 @@
 
 ---
 
-###  Connect With Me
+Fokus di bidang **Network Security, Web Application Security, Digital Forensics**  
+🛡️ Berpengalaman dengan **Pentest, Red Teaming, CTF, dan Bug Hunting**  
+📚 Selalu belajar tentang **Malware Analysis & Exploit Development**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+## 🚀 Skills & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux" />
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash" />
+  <img src="https://img.shields.io/badge/-Metasploit-333333?style=flat&logo=metasploit" />
+  <img src="https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark" />
+  <img src="https://img.shields.io/badge/-Nmap-333333?style=flat&logo=nmap" />
+  <img src="https://img.shields.io/badge/-BurpSuite-333333?style=flat&logo=burpsuite" />
+  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-333333?style=flat&logo=kalilinux" />
+</p>
 
-</div>
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+## 🌍 Connect with Me
+- 📧 Email: your.email@example.com  
+- 🔗 LinkedIn: [linkedin.com/in/USERNAME](https://linkedin.com/in/USERNAME)  
+- 🐦 Twitter/X: [@USERNAME](https://twitter.com/USERNAME)  
+- 🌐 Website/Blog: [https://yourdomain.com](https://yourdomain.com)  
+
 
 ---
 
