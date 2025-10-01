@@ -81,36 +81,16 @@ Selalu belajar tentang **Malware Analysis & Exploit Development**
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=spyustrrrrr&theme=radical" alt="GitHub Contribution Graph"/>
 </p>
 
-<!-- Animated Quote -->
+<!-- Animated Scrolling Quote -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Stay+curious,+stay+hacking.;Knowledge+is+the+ultimate+exploit.;Every+line+of+code+is+a+lesson." alt="Animated Quote"/>
+  <img src="https://img.shields.io/badge/💡-Stay+curious,+stay+hacking,+knowledge+is+the+ultimate+exploit.-blue?style=for-the-badge&logo=&logoColor=white" alt="Scrolling Quote"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" alt="Snake Animation"/>
 </p>
 
 
-
-##  About Me
-```python
-#!/usr/bin/env python3
-
-class CyberSecuritySpecialist:
-    def __init__(self):
-        self.username = "spyustrrrrr"
-        self.role = "Cybersecurity Enthusiast"
-        self.language_spoken = ["id_ID", "en_US"]
-        
-    def current_focus(self):
-        return {
-            "learning": ["Web Application Security", "API Testing"],
-            "building": ["Security Automation Tools", "Custom Exploits"],
-            "practicing": ["CTF Challenges", "Bug Bounty Hunting"]
-        }
-    
-    def get_tools(self):
-        return ["Burp Suite", "Metasploit", "Nmap", "Wireshark", "OWASP ZAP"]
-
-# Instantiate
-hacker = CyberSecuritySpecialist()
-print(hacker.current_focus())
 
 
 
