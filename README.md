@@ -4,11 +4,10 @@
 
 ###  Cybersecurity Enthusiast | Ethical Hacker | Security Researcher
 Fokus di bidang **Network Security, Web Application Security, Digital Forensics**  
- Berpengalaman dengan **Pentest, Red Teaming, CTF, dan Bug Hunting**  
- Selalu belajar tentang **Malware Analysis & Exploit Development**  
+Berpengalaman dengan **Pentest, Red Teaming, CTF, dan Bug Hunting**  
+Selalu belajar tentang **Malware Analysis & Exploit Development**  
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=false&width=600&lines=Penetration+Tester+%7C+Bug+Hunter;Web+Security+%7C+Network+Security;Always+Learning+%7C+Always+Hacking" alt="Typing SVG" />
-
 
 ##  Skills & Tools  
 
@@ -39,18 +38,15 @@ Fokus di bidang **Network Security, Web Application Security, Digital Forensics*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
 </p>
 
-
-
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=spyustrrrrr&show_icons=true&theme=radical&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spyustrrrrr&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
-
 
 ##  Connect with Me
 <p align="center">
@@ -71,22 +67,25 @@ Fokus di bidang **Network Security, Web Application Security, Digital Forensics*
 ---
 
 ##  About Me
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&multiline=false&width=600&lines=Cybersecurity+Enthusiast;Ethical+Hacker;Always+Learning+%26+Hacking" alt="Typing SVG" />
-</p>
+```python
+#!/usr/bin/env python3
 
-Hi! I'm **`spyustrrrrr`** 👋  
-Cybersecurity enthusiast passionate about **Network Security, Web Application Security, and Digital Forensics**.  
+class CyberSecuritySpecialist:
+    def __init__(self):
+        self.username = "spyustrrrrr"
+        self.role = "Cybersecurity Enthusiast"
+        self.language_spoken = ["id_ID", "en_US"]
+        
+    def current_focus(self):
+        return {
+            "learning": ["Web Application Security", "API Testing"],
+            "building": ["Security Automation Tools", "Custom Exploits"],
+            "practicing": ["CTF Challenges", "Bug Bounty Hunting"]
+        }
+    
+    def get_tools(self):
+        return ["Burp Suite", "Metasploit", "Nmap", "Wireshark", "OWASP ZAP"]
 
-### What I Do
-- 🕵️‍♂️ Penetration Testing & Red Teaming  
-- 🐛 Bug Bounty Hunting & Vulnerability Research  
-- 🛡️ Security Automation & Exploit Development  
-
-### Currently Learning & Practicing
-- Web Application Security & API Testing  
-- CTF Challenges & Bug Bounties  
-- Malware Analysis & Reverse Engineering  
-
-### Favorite Tools
-`Metasploit`, `Burp Suite`, `Wireshark`, `OWASP ZAP`, `Nmap`  
+# Instantiate
+hacker = CyberSecuritySpecialist()
+print(hacker.current_focus())
