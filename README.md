@@ -83,12 +83,9 @@ Selalu belajar tentang **Malware Analysis & Exploit Development**
 
 <!-- Animated Scrolling Quote -->
 <p align="center">
-  <img src="https://img.shields.io/badge/💡-Stay+curious,+stay+hacking,+knowledge+is+the+ultimate+exploit.-blue?style=for-the-badge&logo=&logoColor=white" alt="Scrolling Quote"/>
+  <img src="https://github.com/spyustrrrrr/assets/blob/main/snake-quote.gif" alt="Snake Quote"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" alt="Snake Animation"/>
-</p>
 
 
 
