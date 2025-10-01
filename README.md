@@ -66,6 +66,12 @@ Selalu belajar tentang **Malware Analysis & Exploit Development**
 
 ---
 
+Badges & Achievements
+<p align="center"> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![CTF](https://img.shields.io/badge/CTF-Challenges-red?style=for-the-badge) ![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-success?style=for-the-badge) </p>
+
+GitHub Activity
+<p align="center"> ![GitHub Contribution](https://github-readme-activity-graph.vercel.app/graph?username=spyustrrrrr&theme=radical) ![Visitor Count](https://profile-counter.glitch.me/spyustrrrrr/count.svg) </p>
+
 ##  About Me
 ```python
 #!/usr/bin/env python3
@@ -89,3 +95,4 @@ class CyberSecuritySpecialist:
 # Instantiate
 hacker = CyberSecuritySpecialist()
 print(hacker.current_focus())
+
