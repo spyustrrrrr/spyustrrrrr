@@ -51,33 +51,42 @@ Fokus di bidang **Network Security, Web Application Security, Digital Forensics*
 
 ---
 
-##  Connect with Me
--  Email: your.email@example.com  
--  LinkedIn: [linkedin.com/in/USERNAME](https://linkedin.com/in/USERNAME)  
--  Twitter/X: [@USERNAME](https://twitter.com/USERNAME)  
--  Website/Blog: [https://yourdomain.com](https://yourdomain.com)  
 
+##  Connect with Me
+<p align="center">
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+  <a href="https://yourdomain.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" alt="Website" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
 ##  About Me
-```python
-#!/usr/bin/env python3
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&multiline=false&width=600&lines=Cybersecurity+Enthusiast;Ethical+Hacker;Always+Learning+%26+Hacking" alt="Typing SVG" />
+</p>
 
-class CyberSecuritySpecialist:
-    def __init__(self):
-        self.username = "spyustrrrrr"
-        self.role = "Cybersecurity Enthusiast"
-        self.language_spoken = ["id_ID", "en_US"]
-        
-    def current_focus(self):
-        return {
-            "learning": ["Web Application Security", "API Testing"],
-            "building": ["Security Automation Tools", "Custom Exploits"],
-            "practicing": ["CTF Challenges", "Bug Bounty Hunting"]
-        }
-    
-    def get_tools(self):
-        return ["Burp Suite", "Metasploit", "Nmap", "Wireshark", "OWASP ZAP"]
+Hi! I'm **`spyustrrrrr`** 👋  
+Cybersecurity enthusiast passionate about **Network Security, Web Application Security, and Digital Forensics**.  
 
-hacker = CyberSecuritySpecialist()
+### What I Do
+- 🕵️‍♂️ Penetration Testing & Red Teaming  
+- 🐛 Bug Bounty Hunting & Vulnerability Research  
+- 🛡️ Security Automation & Exploit Development  
+
+### Currently Learning & Practicing
+- Web Application Security & API Testing  
+- CTF Challenges & Bug Bounties  
+- Malware Analysis & Reverse Engineering  
+
+### Favorite Tools
+`Metasploit`, `Burp Suite`, `Wireshark`, `OWASP ZAP`, `Nmap`  
