@@ -86,10 +86,6 @@ Selalu belajar tentang **Malware Analysis & Exploit Development**
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Stay+curious,+stay+hacking.;Knowledge+is+the+ultimate+exploit.;Every+line+of+code+is+a+lesson." alt="Animated Quote"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Snake Animation"/>
-</p>
-
 
 
 
