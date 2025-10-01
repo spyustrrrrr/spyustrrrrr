@@ -3,16 +3,12 @@
 #  Hi, I'm spyustrrrrr 
 
 ###  Cybersecurity Enthusiast | Ethical Hacker | Security Researcher
+Fokus di bidang **Network Security, Web Application Security, Digital Forensics**  
+ Berpengalaman dengan **Pentest, Red Teaming, CTF, dan Bug Hunting**  
+ Selalu belajar tentang **Malware Analysis & Exploit Development**  
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=false&width=600&lines=Penetration+Tester+%7C+Bug+Hunter;Web+Security+%7C+Network+Security;Always+Learning+%7C+Always+Hacking" alt="Typing SVG" />
 
----
-
-Fokus di bidang **Network Security, Web Application Security, Digital Forensics**  
-🛡️ Berpengalaman dengan **Pentest, Red Teaming, CTF, dan Bug Hunting**  
-📚 Selalu belajar tentang **Malware Analysis & Exploit Development**  
-
----
 
 ## 🚀 Skills & Tools
 <p align="center">
