@@ -12,33 +12,34 @@ Fokus di bidang **Network Security, Web Application Security, Digital Forensics*
 
 ##  Skills & Tools
 
-## 🛠️ Skills & Tools  
-
 <p align="center">
-  <!-- Cybersecurity (devicon when available, otherwise shields badges) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
+  <!-- Cybersecurity -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+   <img src="https://cdn.simpleicons.org/metasploit/ffffff" width="72" height="72" style="border-radius:12px;padding:8px;background:#111827;margin:6px;" alt="Metasploit"/>
+  <img src="https://cdn.simpleicons.org/wireshark/ffffff" width="72" height="72" style="border-radius:12px;padding:8px;background:#0a2740;margin:6px;" alt="Wireshark"/>
+  <img src="https://cdn.simpleicons.org/nmap/ffffff" width="72" height="72" style="border-radius:12px;padding:8px;background:#222222;margin:6px;" alt="Nmap"/>
+  <img src="https://cdn.simpleicons.org/burp/ffffff" width="72" height="72" style="border-radius:12px;padding:8px;background:#ff6633;margin:6px;" alt="BurpSuite"/>
+  <img src="https://cdn.simpleicons.org/owasp/ffffff" width="72" height="72" style="border-radius:12px;padding:8px;background:#111111;margin:6px;" alt="OWASP"/>
+  <img src="https://cdn.simpleicons.org/kalilinux/ffffff" width="72" height="72" style="border-radius:12px;padding:8px;background:#0f4b39;margin:6px;" alt="Kali Linux"/>
 
-  <!-- Fallback to shields.io for icons that frequently missing on devicon/simpleicons -->
-  <img src="https://img.shields.io/badge/-Metasploit-111827?style=flat-square&logo=metasploit&logoColor=white" width="85" height="60" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" width="85" height="60" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/-Nmap-2C2C2C?style=flat-square&logo=nmap&logoColor=white" width="85" height="60" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/-BurpSuite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" width="85" height="60" alt="BurpSuite"/>
-  <img src="https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white" width="85" height="60" alt="OWASP"/>
-  <img src="https://img.shields.io/badge/-Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white" width="85" height="60" alt="Kali Linux"/>
 
   <!-- Dev & Infra -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
 
   <!-- Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
 </p>
 
 ---
